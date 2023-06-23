@@ -15,7 +15,7 @@ public class NativeAndroidJuceActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.mainlayout);
 
-        // call the native C++ class contsructor
+        // call the native C++ class constructor
         constructNativeClass();
     }
 

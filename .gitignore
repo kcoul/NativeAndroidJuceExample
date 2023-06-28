@@ -3,6 +3,8 @@ JuceLibraryCode
 .idea
 cmake-build-*
 
+NativeAndroidJuceSample/Builds
+
 NativeNavigation/Builds/AndroidStudio/.gradle
 NativeNavigation/Builds/AndroidStudio/AndroidStudio.iml
 NativeNavigation/Builds/AndroidStudio/app/.cxx

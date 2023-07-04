@@ -5,8 +5,8 @@
               jucerFormatVersion="1">
   <MAINGROUP id="y4BUN6" name="NativeNavigation">
     <GROUP id="{E7EF3FA8-6B80-37FB-4D0A-E97DF6D9401D}" name="Source">
-      <FILE id="CthAX9" name="Data.h" compile="0" resource="0" file="Source/Data.h"/>
-      <FILE id="KcwIra" name="MainComponent.cpp" compile="1" resource="0"
+      <FILE id="UQmCFX" name="Data.h" compile="0" resource="0" file="Source/Data.h"/>
+      <FILE id="EGOfFG" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
     </GROUP>
   </MAINGROUP>
